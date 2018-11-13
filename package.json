@@ -1,0 +1,19 @@
+{
+	"name": "thesand_front",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "nuxt",
+		"generate": "nuxt generate"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.18.0",
+		"bulma": "^0.7.2",
+		"nuxt": "^2.2.0",
+		"vue-route": "^1.5.1"
+	}
+}
